@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SistemaGestion</string>
+    <string name="register">Registrar</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="edad_hint">Edad</string>
+    <string name="login_button_text">Iniciar Sesión</string>
+    <string name="register_button_text">Registrar</string>
+    <string name="ver_materias_inscritas_button_text">Ver Materias Inscritas</string>
+    <string name="salir_button_text">Salir</string>
+    <string name="volver_button_text">Volver al Inicio</string>
+    <string name="regresar_button_text">Regresar</string>
+    <string name="materias_inscritas_title_text">Materias Inscritas</string>
+    <string name="update_user_title_text">Actualizar Usuario</string>
+    <string name="available_courses_title_text">Cursos Disponibles</string>
+    <string name="user_profile_title_text">Perfil de Usuario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
